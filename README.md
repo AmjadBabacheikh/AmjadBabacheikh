@@ -22,7 +22,7 @@ Find out more about me & feel free to connect with me here:
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmjadBabacheikh&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmjadBabacheikh&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmjadBabacheikh&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
