@@ -17,7 +17,7 @@ Find out more about me & feel free to connect with me here:
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html logo" width="50" height="50"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3 logo" width="50" height="50"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap logo" width="50" height="50"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript logo" width="50" height="50"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react logo" width="50" height="50"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux logo" width="50" height="50"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java logo" width="50" height="50"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring logo" width="50" height="50"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql logo" width="50" height="50"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb logo" width="50" height="50"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm logo" width="50" height="50"/>         <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="npm logo" width="50" height="50"/>  
 
-
+<!--
 ---
 
 ## &#x1f4c8; My GitHub Stats
@@ -25,7 +25,7 @@ Find out more about me & feel free to connect with me here:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmjadBabacheikh&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmjadBabacheikh&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 <!--
 **AmjadBabacheikh/AmjadBabacheikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
