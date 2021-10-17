@@ -10,7 +10,7 @@ Find out more about me & feel free to connect with me here:
 [![Gmail Badge](https://img.shields.io/badge/-babacheikhamjad@gmail.com-purple?style=flat-square&logo=Gmail&logoColor=white&link=mailto:babacheikhamjad@gmail.com)](mailto:babacheikhamjad@gmail.com)
 
 ---
-Portfolio v1.0: https://smoggy-slave.surge.sh/
+Portfolio v1.0: https://amjadbabacheikh.surge.sh/
 
 
 
