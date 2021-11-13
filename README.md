@@ -1,8 +1,9 @@
 ### Hi there 👋,I am Amjad Babacheikh !
 ---
-
+<!--
 I am a Software engineering student pursuing my bachelor's degree majoring in computer science from The National School of Applied Sciences.
 I write code daily in Javascript and Java ,more focus on best practices .
+-->
 Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-amjadBabacheikh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amjad-babacheikh-9a3473176/)](https://www.linkedin.com/in/amjad-babacheikh-9a3473176/)
