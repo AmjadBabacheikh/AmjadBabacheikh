@@ -7,11 +7,9 @@ I write code daily in Javascript and Java ,more focus on best practices .
 Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-amjadBabacheikh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amjad-babacheikh-9a3473176/)](https://www.linkedin.com/in/amjad-babacheikh-9a3473176/)
-[![Instagram Badge](https://img.shields.io/badge/-a7_coding-darkred?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/a7_coding/)](https://www.instagram.com/a7_coding/)
+
 [![Gmail Badge](https://img.shields.io/badge/-babacheikhamjad@gmail.com-purple?style=flat-square&logo=Gmail&logoColor=white&link=mailto:babacheikhamjad@gmail.com)](mailto:babacheikhamjad@gmail.com)
 
----
-Portfolio v1.0: https://amjadbabacheikh.surge.sh/
 
 
 
